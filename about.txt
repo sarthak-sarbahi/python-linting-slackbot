@@ -1,7 +1,6 @@
 Slack API: https://api.slack.com/
 For learning: Tech With Tim (Python Slack Bot playlist) - https://www.youtube.com/watch?v=KJ5bFv-IRFM&list=PLzMcBGfZo4-kqyzTzJWCV6lyK-ZMYECDc&index=1
 
-
 Steps to setup slackbot:
 > Login to slack and create workspace
 > Create slack app from scratch, give name and specify workspace
@@ -27,7 +26,6 @@ Slash commands
 
 Handling reactions
 > Need to subscribe to bot event: reaction_added
-
 
 Running slackbot
 > Start flask server

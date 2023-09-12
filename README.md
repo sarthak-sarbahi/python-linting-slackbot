@@ -28,4 +28,6 @@ Optimize your Python development process, uphold coding standards, and foster a 
     - Start flask server (port 5000)
     - Run ngrok: `ngrok http 5000``
     - Update public URL on slack API page
-    - Re-install slack bot app in workspace (if required)    
+    - Re-install slack bot app in workspace (if required)
+
+![CodeOptimizer](screenshot.jpg)    

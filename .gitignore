@@ -1,7 +1,5 @@
 secrets.txt
 .env
-bot.py
-pylint_test.ipynb
 .ipynb_checkpoints/
 test_file.py
 lint_file.py
